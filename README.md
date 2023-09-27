@@ -12,7 +12,7 @@ Edit this README file to include a brief biography of yourself. Your README shou
   
 * Images: add a picture (of yourself or something else) to your repo and embed it in your README
 * Links
-![My cat]("C:\Users\kexin\OneDrive\Desktop\mycat.jpg")
+![My cat](https://1drv.ms/i/s!AiYZUtzn2pLcmm0JPJdl3Soqhs2l?e=OBf950)
 
 * A summary and reflection of the Git/GitHub workflow you adopted for this homework, and of your experience with Markdown (e.g., provide a summary of the workflow you adopted, and add some comments about something new you learned, something that surprised you, etc.)
 For the Git/Github workflow, I forked the repository, cloned it locally, made edits, committed changes, and pushed to GitHub.
