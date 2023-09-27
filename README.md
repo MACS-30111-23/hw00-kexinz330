@@ -15,6 +15,7 @@ Edit this README file to include a brief biography of yourself. Your README shou
 ![My cat](mycat.jpg)
 
 * A summary and reflection of the Git/GitHub workflow you adopted for this homework, and of your experience with Markdown (e.g., provide a summary of the workflow you adopted, and add some comments about something new you learned, something that surprised you, etc.)
+
 For the Git/Github workflow, I forked the repository, cloned it locally, made edits, committed changes, and pushed to GitHub.
 Markdown simplifies text formatting with headers, emphasis, lists, images, and links. It's a practical tool for creating well-structured documentation.
 
